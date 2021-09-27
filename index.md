@@ -14,7 +14,7 @@ esc            - switches out of insert mode
 :wq            - saves changes to file and exits out of vim
 ```
 
-Some helpful tips for git commands can be found [here] http://guides.beanstalkapp.com/version-control/common-git-commands.html)
+Some helpful tips for git commands can be found [here](http://guides.beanstalkapp.com/version-control/common-git-commands.html)
 
 The section link for the introduction of this page can be found [here](#Introduction)
 
