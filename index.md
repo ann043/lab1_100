@@ -14,13 +14,13 @@ esc            - switches out of insert mode
 :wq            - saves changes to file and exits out of vim
 ```
 
-Some helpful tips for git commands can be found [here] (http://guides.beanstalkapp.com/version-control/common-git-commands.html#local)
+Some helpful tips for git commands can be found [here] http://guides.beanstalkapp.com/version-control/common-git-commands.html#)
 
-The section link for the introduction of this page can be found [here] (#Introduction)
+The section link for the introduction of this page can be found [here](#Introduction)
 
-A relative link, the readme file for this page can be found [here] (/README.md)
+A relative link, the readme file for this page can be found [here](README.md)
 
-![A-cool-image] (https://cdn.discordapp.com/attachments/411004627916554240/892174001269522492/frabz-Computer-Science-Major-What-my-friends-think-I-do-What-my-mom-th-3afa25.png)
+![A-cool-image](https://cdn.discordapp.com/attachments/411004627916554240/892174001269522492/frabz-Computer-Science-Major-What-my-friends-think-I-do-What-my-mom-th-3afa25.png)
 
 Favorite games of mine (unordered):
 - Halo Reach
