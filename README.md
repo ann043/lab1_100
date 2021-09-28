@@ -1,2 +1,2 @@
 # lab1_100
-I really liked Java because it was easier to find and correct mistakes that I made
+Website URL: https://ann043.github.io/lab1_100/

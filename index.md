@@ -16,12 +16,14 @@ esc            - switches out of insert mode
 
 Some helpful tips for git commands can be found [here](http://guides.beanstalkapp.com/version-control/common-git-commands.html)
 
-The section link for the introduction of this page can be found [here](#Introduction)
+The section link for the introduction of this page can be found [here](#Games)
 
 A relative link, the readme file for this page can be found [here](README.md)
 
 Here is a meme I found that I thought was funny
 ![A-cool-image](https://cdn.discordapp.com/attachments/411004627916554240/892174001269522492/frabz-Computer-Science-Major-What-my-friends-think-I-do-What-my-mom-th-3afa25.png)
+
+# Games
 
 Favorite games of mine (unordered):
 - Halo Reach
