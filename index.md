@@ -16,7 +16,7 @@ esc            - switches out of insert mode
 
 Some helpful tips for git commands can be found [here](http://guides.beanstalkapp.com/version-control/common-git-commands.html)
 
-The section link for the introduction of this page can be found [here](#Games)
+The section link for the introduction of this page can be found [here](https://github.com/ann043/lab1_100/blob/markdown/index.md#games)
 
 A relative link, the readme file for this page can be found [here](README.md)
 
